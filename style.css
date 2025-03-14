@@ -218,19 +218,19 @@ header .div2 .divEle {
   align-items: center;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 96%;
-  margin-top: -10%;
+  gap: 90%;
+  margin-top: -12%;
 }
 .arrows .arrowIconLeft {
   position: absolute;
-  left: 1.5%;
+  left: 1%;
   background-color: #f3f9fb;
   padding: 20px;
   border-radius: 50%;
 }
 .arrows .arrowIconRight {
   position: absolute;
-  right: 1.5%;
+  right: 1%;
   background-color: #f3f9fb;
   padding: 20px;
   transform: scaleX(-1);

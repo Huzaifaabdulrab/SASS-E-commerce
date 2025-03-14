@@ -268,11 +268,11 @@ header {
   position: relative;
   @include flex_value(flex, space-around, center);
   @include flex_direction(wrap, row);
-  gap: 96%;
-  margin-top: -10%;
+  gap: 90%;
+  margin-top: -12%;
   .arrowIconLeft {
     position: absolute;
-    left: 1.5%;
+    left: 1%;
     background-color: $inputbg;
     padding: 20px;
     border-radius: 50%;
@@ -280,7 +280,7 @@ header {
 
   .arrowIconRight {
     position: absolute;
-    right: 1.5%;
+    right: 1%;
     background-color: $inputbg;
     padding: 20px;
     transform: scaleX(-1);
